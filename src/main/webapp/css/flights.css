@@ -1,0 +1,173 @@
+@charset "UTF-8";
+
+.container {
+  width: 900px;
+  background: rgb(209, 209, 209);
+  margin: 0 auto;
+  box-shadow: 0px 15px 16.83px 0.17px rgba(0, 0, 0, 0.05);
+  -moz-box-shadow: 0px 15px 16.83px 0.17px rgba(0, 0, 0, 0.05);
+  -webkit-box-shadow: 0px 15px 16.83px 0.17px rgba(0, 0, 0, 0.05);
+  -o-box-shadow: 0px 15px 16.83px 0.17px rgba(0, 0, 0, 0.05);
+  -ms-box-shadow: 0px 15px 16.83px 0.17px rgba(0, 0, 0, 0.05);
+  border-radius: 20px;
+  -moz-border-radius: 20px;
+  -webkit-border-radius: 20px;
+  -o-border-radius: 20px;
+  -ms-border-radius: 20px;
+  padding-top: 30px;
+  }
+  
+ .id{
+ 	font-size: 25px;
+ 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ 	font-weight: bolder;
+ 	margin-left: 40px;
+ }
+ .id-2{
+ 	font-size: 25px;
+ 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ }
+ .source{
+  	font-size: 25px;
+ 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ 	color: rgb(5, 64, 143);
+ 	font-weight: bolder;
+ 	margin-left: 100px;
+ 	margin-top: 20px;
+ }
+  .time{
+  	font-size: 25px;
+ 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ 	color: rgb(5, 64, 143);
+ 	font-weight: bolder;
+ 	margin-left: 150px;
+ 	margin-top: 20px;
+ }
+  .destination{
+  	font-size: 25px;
+ 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ 	color: rgb(5, 64, 143);
+ 	font-weight: bolder;
+ 	margin-left: 150px;
+ 	margin-top: 20px;
+ }
+ 
+  .source-2{
+  	font-size: 20px;
+ 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ 	color: rgb(76, 5, 5);
+ 	font-weight: bold;
+ 	margin-left: 100px;
+ }
+  .time-2{
+  	font-size: 20px;
+ 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ 	color: rgb(101, 105, 110);
+ 	font-weight: bolder;
+ }
+  .destination-2{
+  	font-size: 20px;
+ 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ 	color: rgb(76, 5, 5);
+ 	font-weight: bold;
+ }
+ .date{
+ 	font-size: 25px;
+ 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ 	font-weight: bolder;
+ 	margin-left: 100px;
+ 	margin-top: 20px;
+ }
+ 
+  .airline{
+ 	font-size: 25px;
+ 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ 	font-weight: bolder;
+ 	margin-left: 110px;
+ 	margin-top: 20px;
+ }
+  .date-2{
+  	font-size: 25px;
+ 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ 	color: rgb(101, 105, 110);
+ 	font-weight: bold;
+ }
+  .airline-2{
+  	font-size: 25px;
+ 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ 	color: rgb(76, 5, 5);
+ 	font-weight: bold;
+ }
+  .eprice{
+  	font-size: 25px;
+ 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ 	color: rgb(5, 64, 143);
+ 	font-weight: bolder;
+ 	margin-left: 100px;
+ 	margin-top: 20px;
+ }
+  .fprice{
+  	font-size: 25px;
+ 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ 	color: rgb(5, 64, 143);
+ 	font-weight: bolder;
+ 	margin-left: 100px;
+ 	margin-top: 20px;
+ }
+  .bprice{
+  	font-size: 25px;
+ 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ 	color: rgb(5, 64, 143);
+ 	font-weight: bolder;
+ 	margin-left: 100px;
+ 	margin-top: 20px;
+ }
+   .eprice-2{
+  	font-size: 25px;
+ 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ 	color: rgb(95, 67, 35);
+ 	font-weight: bolder;
+ 	margin-left: 160px;
+ }
+  .fprice-2{
+  	font-size: 25px;
+ 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ 	color: rgb(95, 67, 35);
+ 	font-weight: bolder;
+ 	margin-left: 220px;
+ }
+  .bprice-2{
+  	font-size: 25px;
+ 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ 	color: rgb(95, 67, 35);
+ 	font-weight: bolder;
+ 	margin-left: 200px;
+ }
+
+ 
+ .btn1{
+   background: #6dabe4;
+  color: #fff;
+  width: auto;
+  padding: 15px 39px;
+  border-radius: 5px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -o-border-radius: 5px;
+  -ms-border-radius: 5px;
+  margin-top: 25px;
+  cursor: pointer;
+  margin-botton: 20px;
+  margin-left: 900px;
+  font-size: 15px;
+  font-weight: bold;
+  margin-bottom: 15px;
+  margin-top: -10px; }
+  
+  .btn1:hover {
+    background: #4292dc;
+    color: #fff;
+    }
+a:link{
+	  color: #fff;
+}
